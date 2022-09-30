@@ -1,0 +1,29 @@
+*{
+    font-family: "open sans";
+}
+
+button{
+    width: 100%;
+    border-radius: 50px;
+    background-color: #000;
+    color: #fff;
+}
+p{
+    border-left: 1px;
+}
+
+#mainp{
+    border-left: solid 3px;
+    padding-left: 5px;
+}
+
+footer{
+    align-items: flex-end;
+    margin-top: 100%;
+    width: 100%;
+    background-color: rgba(247, 193, 162, 0.7);
+
+}
+body{
+    background-color: #f9fafc;
+}
